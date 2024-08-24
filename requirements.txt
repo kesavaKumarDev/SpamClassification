@@ -1,0 +1,10 @@
+nltk
+pandas
+numpy
+scikit-learn
+gensim
+tqdm
+transformers
+torch
+schedule
+joblib
